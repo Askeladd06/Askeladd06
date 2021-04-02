@@ -14,6 +14,12 @@
 Follow Me
 
 
+![LinkedIn](https://img.shields.io/badge/-Linked_In-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/-Git_Hub-black?style=for-the-badge&logo=GitHub&logoColor=white)
+
+
+
 
 
 
