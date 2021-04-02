@@ -6,8 +6,8 @@
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=323330)
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=HTML&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-yellow?style=for-the-badge&logo=CSS&logoColor=orange)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=61DBFB)
+![CSS](https://img.shields.io/badge/-CSS-2965F1?style=for-the-badge&logo=CSS&logoColor=orange)
+![React](https://img.shields.io/badge/-React-313335?style=for-the-badge&logo=React&logoColor=61DBFB)
 ![Git](https://img.shields.io/badge/-Git-f34f29?style=for-the-badge&logo=Git&logoColor=white)
 
 
