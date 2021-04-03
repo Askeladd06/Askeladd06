@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://github.com/Askeladd06/Askeladd06/blob/main/assets/2906282.jpg)](https://www.linkedin.com/in/v-toderishen/)
+![Header](https://github.com/Askeladd06/Askeladd06/blob/main/assets/221.jpg)
 
 ## I’m a beginner Front-end developer
 
@@ -10,7 +10,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=&logoColor=orange)
 
-###Follow Me
+### Contacts
 
 [![facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook&logoColor=blue)](https://www.facebook.com/vlad.toderishen.06)
 [![VK](https://img.shields.io/badge/-Vkontakte-black?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/vivec_the_living_god)
