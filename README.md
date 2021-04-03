@@ -4,19 +4,19 @@
 ## I’m a beginner Front-end developer
 
 ### Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=323330)
-![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=HTML&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-2965F1?style=for-the-badge&logo=CSS&logoColor=orange)
+![JavaScript](https://img.shields.io/badge/-JavaScript-313335?style=for-the-badge&logo=JavaScript&logoColor=default)
+![HTML](https://img.shields.io/badge/-HTML-313335?style=for-the-badge&logo=&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-313335?style=for-the-badge&logo=&logoColor=orange)
 ![React](https://img.shields.io/badge/-React-313335?style=for-the-badge&logo=React&logoColor=61DBFB)
-![Git](https://img.shields.io/badge/-Git-f34f29?style=for-the-badge&logo=Git&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-313335?style=for-the-badge&logo=Git&logoColor=white)
 
 
-Follow Me
+###Follow Me
 
 
-![LinkedIn](https://img.shields.io/badge/-Linked_In-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-Linked_In-313335?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/v-toderishen/)
 
-![GitHub](https://img.shields.io/badge/-Git_Hub-black?style=for-the-badge&logo=GitHub&logoColor=white)
+[![GitHub](https://img.shields.io/badge/-Git_Hub-313335?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Askeladd06)
 
 
 
