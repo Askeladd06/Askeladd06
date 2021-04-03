@@ -14,11 +14,21 @@
 ###Follow Me
 
 
-[![LinkedIn](https://img.shields.io/badge/-Linked_In-313335?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/v-toderishen/)
+[![LinkedIn](https://img.shields.io/badge/-Linked_In-313335?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/v-toderishen/)
 
 [![GitHub](https://img.shields.io/badge/-Git_Hub-313335?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Askeladd06)
 
-[![Gmail](https://img.shields.io/badge/-Google_mail-313335?style=for-the-badge&logo=Gmail&logoColor=white)](vladislav4fc@gmail.com)
+[![VK](https://img.shields.io/badge/-Vkontakte-313335?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/vivec_the_living_god)
+
+[![facebook](https://img.shields.io/badge/-Facebook-313335?style=for-the-badge&logo=facebook&logoColor=blue)](https://www.facebook.com/vlad.toderishen.06)
+
+[![TG](https://img.shields.io/badge/-Telegram-313335?style=for-the-badge&logo=Telegram&logoColor=blue)](https://t.me/Askeladd06)
+
+[![instagram](https://img.shields.io/badge/-instagram-313335?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/night_toderishen/)
+
+
+
+
 
 
 
