@@ -18,6 +18,9 @@
 
 [![GitHub](https://img.shields.io/badge/-Git_Hub-313335?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Askeladd06)
 
+[![Gmail](https://img.shields.io/badge/-Google_mail-313335?style=for-the-badge&logo=Gmail&logoColor=white)](vladislav4fc@gmail.com)
+
+
 
 
 
