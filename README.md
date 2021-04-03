@@ -17,4 +17,4 @@
 [![TG](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=blue)](https://t.me/Askeladd06)
 [![instagram](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/night_toderishen/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Askeladd06&hide=contribs,prs,stars,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Askeladd06&hide=contribs,prs,stars,issues&count_private=true&show_icons=true&theme=dark)
