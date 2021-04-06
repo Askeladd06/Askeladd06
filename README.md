@@ -6,8 +6,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=default)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=61DBFB)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=&logoColor=orange)
 
 ### Contacts 🔎
 
