@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=white)
 
 ### Goals:
- 
+
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=blue)
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&amp;logo=mysql&amp;logoColor=00648B)
@@ -26,6 +26,6 @@
 ### Status 📈
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Askeladd06&hide=contribs,prs,stars,issues&count_private=true&show_icons=true&theme=dark)
 
-### My projects 🔬
+### My projects 👨‍💻
 
 [![tic-tac-toe](https://img.shields.io/badge/-tic_tac_toe-black?style=for-the-badge&logo=&logoColor=blue)](https://tic-tac-toe-by-askeladd.netlify.app/)
