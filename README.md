@@ -1,4 +1,4 @@
-[![Header](https://github.com/Askeladd06/Askeladd06/blob/main/assets/221.jpg)](https://www.codewars.com/users/Askeladd06)
+[![Header](https://github.com/Askeladd06/Askeladd06/blob/main/assets/21113123.jpg)](https://www.codewars.com/users/Askeladd06)
 ## I’m a beginner Front-end developer
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=df)
