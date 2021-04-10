@@ -11,17 +11,17 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=default)
 ![CSS](https://img.shields.io/badge/-CSs-090909?style=for-the-badge&logo=CSS3&logoColor=2862E9)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=)
 <br>
 
-## Goals:
+## Goals
 
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=blue)
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&amp;logo=mysql&amp;logoColor=00648B)
 <br>
 
-## Contacts:
+## Contacts
 
 <!-- [![facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=blue)](https://www.facebook.com/vlad.toderishen.06) -->
 <!-- [![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/vivec_the_living_god) -->
