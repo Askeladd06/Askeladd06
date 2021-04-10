@@ -1,9 +1,8 @@
 [![Header](https://github.com/Askeladd06/Askeladd06/blob/main/assets/21113123.jpg)](https://www.codewars.com/users/Askeladd06)
 ## I’m a beginner Front-end developer
+### Commits Activity
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Askeladd06/T-T-T?color=090909&label=Tic_Tac_Toe&logo=Github&logoColor=default&style=for-the-badge)](https://github.com/Askeladd06/T-T-T)  
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Askeladd06/Askeladd06?color=090909&label=Commits%20Activity&logo=GitHub&logoColor=bruuuuh&style=for-the-badge)](https://github.com/Askeladd06)
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Askeladd06/T-T-T?color=090909&label=Commits%20Activity&logo=GitHub&logoColor=default&style=for-the-badge)
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=df)
