@@ -25,8 +25,7 @@
 
 
 ### My projects 👨‍💻
-[![Netlify](https://img.shields.io/badge/-tic_tac_toe_--_On_Netlify-090909?style=for-the-badge&logo=Netlify&logoColor=default)](https://tic-tac-toe-by-askeladd.netlify.app/)
-
+[![Netlify](https://img.shields.io/badge/-tic_tac_toe_--_On_Netlify-090909?style=for-the-badge&logo=Netlify&logoColor=default)](https://tic-tac-toe-by-askeladd.netlify.app/)  
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Askeladd06/T-T-T?color=090909&logo=GitHub&logoColor=default)](https://github.com/Askeladd06/T-T-T)  
 
 <!-- [![tic-tac-toe](https://img.shields.io/badge/-tic_tac_toe-090909?style=for-the-badge&logo=&logoColor=blue)](https://tic-tac-toe-by-askeladd.netlify.app/)  -->
