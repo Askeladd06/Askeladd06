@@ -27,9 +27,7 @@
 <!-- [![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/vivec_the_living_god) -->
 [![LinkedIn](https://img.shields.io/badge/-Linked_In-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/v-toderishen/)
 [![TG](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=blue)](https://t.me/Askeladd06)
-<!-- [![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/night_toderishen/) -->
-<br>
-
+<!-- [![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/night_toderishen/) --> 
  ## My projects      
 
 [![Netlify](https://img.shields.io/badge/-tic_tac_toe_--_On_Netlify-090909?style=for-the-badge&logo=Netlify&logoColor=default)](https://tic-tac-toe-by-askeladd.netlify.app/)  
