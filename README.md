@@ -3,15 +3,18 @@
 #### I am currently studying, practicing, taking experience
 
 
-## Languages and Tools
+
+## 💼 Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=df)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61DBFB)
-![Node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=Node.js&logoColor=default)   
-
+![Node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=Node.js&logoColor=default)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=default)
 ![CSS](https://img.shields.io/badge/-CSs-090909?style=for-the-badge&logo=CSS3&logoColor=2862E9)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Askeladd06&layout=demo?&theme=dark)](https://github.com/Askeladd06?tab=repositories)
 <br>
 
 ## Goals
