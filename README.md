@@ -1,9 +1,5 @@
 [![Header](https://github.com/Askeladd06/Askeladd06/blob/main/assets/21113123.jpg)](https://www.codewars.com/users/Askeladd06)
 ## I’m a beginner Front-end developer
-### Commits Activity
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Askeladd06/T-T-T?color=090909&label=Tic_Tac_Toe&logo=Github&logoColor=default&style=for-the-badge)](https://github.com/Askeladd06/T-T-T)  
-
-
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=df)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61DBFB)
@@ -29,5 +25,5 @@
 
 
 ### My projects 👨‍💻
-
-[![tic-tac-toe](https://img.shields.io/badge/-tic_tac_toe-090909?style=for-the-badge&logo=&logoColor=blue)](https://tic-tac-toe-by-askeladd.netlify.app/)
+[![tic-tac-toe](https://img.shields.io/badge/-tic_tac_toe-090909?style=for-the-badge&logo=&logoColor=blue)](https://tic-tac-toe-by-askeladd.netlify.app/)  
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Askeladd06/T-T-T?color=090909&logo=GitHub&logoColor=default)](https://github.com/Askeladd06/T-T-T)  
