@@ -3,6 +3,8 @@
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Askeladd06/Askeladd06?color=090909&label=Commits%20Activity&logo=GitHub&logoColor=bruuuuh&style=for-the-badge)](https://github.com/Askeladd06)
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Askeladd06/T-T-T?color=090909&label=Commits%20Activity&logo=GitHub&logoColor=default&style=for-the-badge)
+
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=df)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61DBFB)
