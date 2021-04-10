@@ -3,7 +3,7 @@
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=df)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61DBFB)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=white)  
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=default)
 ![CSS](https://img.shields.io/badge/-CSs-090909?style=for-the-badge&logo=CSS3&logoColor=2862E9)
 ![Node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=Node.js&logoColor=default) 
@@ -25,5 +25,8 @@
 
 
 ### My projects 👨‍💻
-[![tic-tac-toe](https://img.shields.io/badge/-tic_tac_toe-090909?style=for-the-badge&logo=&logoColor=blue)](https://tic-tac-toe-by-askeladd.netlify.app/)  
+[![Netlify](https://img.shields.io/badge/-tic_tac_toe_--_On_Netlify-090909?style=for-the-badge&logo=Netlify&logoColor=default)](https://tic-tac-toe-by-askeladd.netlify.app/)
+
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Askeladd06/T-T-T?color=090909&logo=GitHub&logoColor=default)](https://github.com/Askeladd06/T-T-T)  
+
+<!-- [![tic-tac-toe](https://img.shields.io/badge/-tic_tac_toe-090909?style=for-the-badge&logo=&logoColor=blue)](https://tic-tac-toe-by-askeladd.netlify.app/)  -->
