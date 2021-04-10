@@ -4,10 +4,10 @@
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=df)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61DBFB)
-![Node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=Node.js&logoColor=default)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=white)  
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=default)
 ![CSS](https://img.shields.io/badge/-CSs-090909?style=for-the-badge&logo=CSS3&logoColor=2862E9)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=white)
+![Node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=Node.js&logoColor=default) 
 
 ### Goals:
 
